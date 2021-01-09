@@ -1,0 +1,10 @@
+.menu{
+    text-decoration:  none;
+}
+nav a{
+    background-color: navy;
+    border-radius: 10px;
+    border: 3px solid navy;
+    color: white;
+    font-size: 20px;
+}
